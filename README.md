@@ -1,5 +1,6 @@
 # Recommender-System
 Background
+
 ACSE Supermarket, a company that sells everything, has over 40 stores in North America and sells over 100 thousand products in over 100 categories.  ACSE customers can opt to join the ACSE Rewards program to avail of weekly sales and promotions.  ACSE has determined that they can use a recommender system to help inform decisions such as products to carry in stores, shelf space allocation to products, products to promote to customers, reorder level of products, order quantity of products, etc. 
 
 Problem
@@ -65,3 +66,20 @@ prod_count_uom – Unit of measure (UOM) for a count of the Product
 
 prod_uom_value – Value UOM per count of the Product
 
+Recommender System
+
+Your analytics consulting group has been tasked by ACSE to develop a recommender system for personalized promotions. Despite ongoing negotiations with suppliers, you have received the necessary data from the client. You have a three-week window to analyze the data and support the proposed marketing campaigns for May 2024. The campaigns below are assigned according to project group number, e.g., Group #6 works on the Coca-Cola campaign.
+
+Kellogg: Target customers purchasing General Mills products for a personalized promotion.
+
+Kimberly-Clark: Create a promotion targeting customers currently buying competing baby care brands to promote Huggies.
+
+Molson Coors: Determine if targeting Budweiser customers can increase Molson product sales.
+
+Nestle: Devise a strategy to promote confectionery/chocolate products and expand market share in the category.
+
+Unilever: Identify specific Dove products for promotion to increase overall brand sales.
+
+Coca-Cola: Plan a personalized campaign targeting customers purchasing from other carbonated soft drink (CSD) brands.
+
+For each campaign, ACSE prohibits targeting customers buying competing ACSE branded products. Your task includes providing a personalized promotion plan for each campaign, specifying the targeted customers and the promoted product.
