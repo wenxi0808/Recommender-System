@@ -68,7 +68,7 @@ prod_uom_value – Value UOM per count of the Product
 
 Recommender System
 
-Your analytics consulting group has been tasked by ACSE to develop a recommender system for personalized promotions. Despite ongoing negotiations with suppliers, you have received the necessary data from the client. You have a three-week window to analyze the data and support the proposed marketing campaigns for May 2024. The campaigns below are assigned according to project group number, e.g., Group #6 works on the Coca-Cola campaign.
+Your analytics consulting group has been tasked by ACSE to develop a recommender system for personalized promotions. Despite ongoing negotiations with suppliers, you have received the necessary data from the client. You have a three-week window to analyze the data and support the proposed marketing campaigns for May 2024.
 
 Kellogg: Target customers purchasing General Mills products for a personalized promotion.
 
